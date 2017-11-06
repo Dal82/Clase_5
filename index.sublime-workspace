@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"borde",
+				"border-box"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"string",
+				"highlight_string"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2656,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".keep",
+			"settings":
+			{
+				"buffer_size": 5,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": ".keep"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 418.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			" import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Dal/Documents/clase5@home"
+	],
+	"file_history":
+	[
+		"/C/Users/Dal/Documents/clase5@home/img/.keep",
+		"/C/Users/Dal/Documents/clase5@home/index.html",
+		"/C/Users/Dal/Documents/2017/clase_5/css/main.css",
+		"/C/Users/Dal/Documents/2017/clase_5/index.html",
+		"/C/Users/Dal/Documents/2017/clase_5/css/reset.css",
+		"/C/Users/Dal/Documents/2017/clase_5/js/.kep",
+		"/C/Users/Dal/Documents/2017/clase_5/img/.kep",
+		"/C/Users/Dal/Desktop/clase_4/css/main.css",
+		"/C/Users/Dal/Desktop/clase_4/index.html",
+		"/C/Users/Dal/Documents/fantasma/2017/hub/prueba/ecommerce_/vistas/modulos/cabecera.php",
+		"/C/Users/Dal/Documents/2017/cursobd/index.html",
+		"/C/wamp64/www/cursophp7",
+		"/C/wamp64/www/Curso PHP/index.php",
+		"/C/Users/Dal/Documents/fantasma/2017/hub/clase_4/index.html",
+		"/C/Users/Dal/Documents/fantasma/2017/hub/clase_4/css/main.css",
+		"/C/Users/Dal/Documents/Dal Practice/index.sublime-project",
+		"/C/Users/Dal/Documents/Hubcamp2017/css/main.css",
+		"/C/Users/Dal/Documents/Hubcamp2017/Mi maqueta.html",
+		"/C/Users/Dal/Documents/Hubcamp2017/index.html",
+		"/C/Users/Dal/Documents/Hubcamp2017/segunda_clase.html",
+		"/C/Users/Dal/Documents/Dal Practice/index.html",
+		"/C/Users/Dal/Documents/Hubcamp2017/Experimentos Dalila/index.html",
+		"/C/Users/Dal/Documents/index.html",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/wamp64/www/Cursohome/07funciones/index.php",
+		"/C/wamp64/www/Cursohome/01Entorno.php",
+		"/C/wamp64/www/Cursohome/08clases/index.php",
+		"/C/wamp64/www/Cursohome/09clases/index.php",
+		"/C/wamp64/www/Cursohome/10clasesabstractas/index.php",
+		"/C/wamp64/www/Cursohome/11clasesanonimas/index.php",
+		"/C/wamp64/www/Cursohome/12interfaces/index.php",
+		"/C/wamp64/www/Cursohome/13excepciones/index.php",
+		"/C/wamp64/www/Cursohome/14_GET/index.php",
+		"/C/wamp64/www/Cursohome/15_POST/index.php",
+		"/C/wamp64/www/Cursohome/15_POST/recibe.php",
+		"/C/wamp64/www/Cursohome/16namespaces/Admin/Blog.php",
+		"/C/wamp64/www/Cursohome/16namespaces/Admin/Usuario.php",
+		"/C/wamp64/www/Cursohome/16namespaces/Blog.php",
+		"/C/wamp64/www/Cursohome/16namespaces/index.php",
+		"/C/wamp64/www/Cursohome/17typehinting/index.php",
+		"/C/wamp64/www/Cursohome/18_get/index.php",
+		"/C/wamp64/www/Cursohome/19_set/index.php",
+		"/C/wamp64/www/Cursohome/index.php",
+		"/C/wamp64/www/Cursohome/06bucles/index.php",
+		"/C/wamp64/www/Cursohome/05condicionales/index.php",
+		"/C/wamp64/www/Cursohome/04comparaciones/index.php",
+		"/C/wamp64/www/Cursohome/03constantes/index.php",
+		"/C/wamp64/www/Cursohome/02Variables/index.php",
+		"/C/wamp64/www/Cursohome/17typehinting/order.txt",
+		"/C/wamp64/www/prueba/prueba.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2631,
+								2631
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 878.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".keep",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".keep",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 26.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
